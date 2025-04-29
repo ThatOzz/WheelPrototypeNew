@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/VehicleTemplate/Input/Actions/IA_LeftSteering.uasset",
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/VehicleTemplate/Input/Actions/IA_RightSteering.uasset",
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset",
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsRear.uasset",
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/6B/35BADYNNBJZPEYUTHJKTQU.uasset",
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/LP/UZ50PDVAY299IMPNI9D2JC.uasset",
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/WW/FO9B6T5LMMCOKJG4HCFNL1.uasset",
+				"E:/UEprojects/GitHub/WheelPrototypeNew/PlayerPrototype/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/RG/6FX3FVZLOTLUYLWS5AEE1A.uasset"
+			]
+		}
+	]
+}
